@@ -1,6 +1,6 @@
 ﻿# AI Manga Upscale Colab
 
-Upscale manga using AI.
+Upscale manga using AI. https://github.com/user-attachments/assets/7c03837b-32bc-4a43-8296-1ca87a51c68c
 
 <i>[The following projects were used (among others): ESRGAN by joeyballentine and AI models (among others): 4x_eula_digimanga_bw_v2_nc1_307k by end user license agreement#9756 and 4x-AnimeSharp by Kim2091, both licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)].</i>
 
@@ -15,3 +15,4 @@ AI Manga Upscale Colab Post-Production Toolset:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Spladenly/ai-manga-upscale-colab/blob/main/post-prod.ipynb)
 
 <i>Bugs, issues, suggestions? Please, contribute! Feel free to create issues, and/or submit pull requests (please, honor the code style used by me)!</i>
+
